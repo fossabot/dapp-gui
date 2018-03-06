@@ -1,5 +1,4 @@
 # Contributing
-
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change.
 
@@ -15,7 +14,7 @@ Please use follow prefixes:
 
 We suggest you to use [git-flow extensions](https://github.com/nvie/gitflow).
 
-For better understanding, take a look at [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+For better understanding, take a look at [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/).
 
 ## Code style
 We follow Google code style guides:
