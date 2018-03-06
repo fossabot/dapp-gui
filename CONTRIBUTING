@@ -15,9 +15,12 @@ Please use follow prefixes:
 
 We suggest you to use [git-flow extensions](https://github.com/nvie/gitflow).
 
+For better understanding, take a look at [git-flow cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
+
 ## Code style
 We follow Google code style guides:
-* JavaScript: https://google.github.io/styleguide/jsguide.html
+* JavaScript:https://google.github.io/styleguide/jsguide.html
+* JSON: https://google.github.io/styleguide/jsoncstyleguide.xml
 * TypeSript: https://github.com/google/ts-style
 
 ## Tests
