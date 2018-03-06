@@ -20,8 +20,10 @@ We follow Google code style guides:
 * JavaScript: https://google.github.io/styleguide/jsguide.html
 * TypeSript: https://github.com/google/ts-style
 
-## Pull Request Process
+## Tests
+For any new programmatic functionality, we like unit tests when possible, so if you can keep your code cleanly isolated, please do add a test file to the tests folder.
 
+## Pull Request Process
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a
    build.
 2. Update the README.md with details of changes to the interface, this includes new environment
@@ -32,4 +34,4 @@ We follow Google code style guides:
    do not have permission to do that, you may request the second reviewer to merge it for you.
 
 ## Code of Conduct
-[Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md)
+[Code of Conduct](CODE_OF_CONDUCT.md)
