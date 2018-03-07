@@ -49,6 +49,11 @@ We adhere Google code style guides:
 * JSON: https://google.github.io/styleguide/jsoncstyleguide.xml
 * TypeSript: https://github.com/google/ts-style
 
+## Commit message
+> Describe your changes in imperative mood, e.g. "make xyzzy do frotz" instead of "[This patch] makes xyzzy do frotz" or "[I] changed xyzzy to do frotz", as if you are giving orders to the codebase to change its behavior.
+
+As is described at [Documentation/SubmittingPatches in the Git repo](https://git.kernel.org/pub/scm/git/git.git/tree/Documentation/SubmittingPatches?id=HEAD#n133)
+
 ## Tests
 
 For any new programmatic functionality, we like unit tests when possible, so if you can keep your code cleanly isolated, please do add a test file to the tests folder.
