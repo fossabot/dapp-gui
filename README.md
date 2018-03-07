@@ -79,4 +79,4 @@ See also the list of [contributors](https://github.com/Privatix/dapp-gui/contrib
 
 # License
 
-This project is licensed under the **GPL-3.0 License** - see the [COPYING](COPYING.txt) file for details.
+This project is licensed under the **GPL-3.0 License** - see the [COPYING](COPYING) file for details.
