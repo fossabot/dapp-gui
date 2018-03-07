@@ -21,7 +21,7 @@ and how to install them
 
 ## Installation steps
 
-Clone the `dapp-gui` repository using git and initialize the modules:
+Clone the `dapp-gui` repository using git:
 
 ```
 git clone https://github.com/Privatix/dapp-gui.git
