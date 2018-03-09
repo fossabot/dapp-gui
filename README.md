@@ -1,3 +1,5 @@
+[![Dependency Status](https://david-dm.org/Privatix/dapp-gui.svg)](https://david-dm.org/Privatix/dapp-gui)
+
 # Privatix Network GUI
 
 This GUI provide user interface for Privatix Agent and Privatix Client.
