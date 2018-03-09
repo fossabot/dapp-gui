@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/36cd4ddf298a54226e1a/maintainability)](https://codeclimate.com/github/Privatix/dapp-gui/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/36cd4ddf298a54226e1a/test_coverage)](https://codeclimate.com/github/Privatix/dapp-gui/test_coverage)
 [![Dependency Status](https://david-dm.org/Privatix/dapp-gui.svg)](https://david-dm.org/Privatix/dapp-gui)
 
 # Privatix Network GUI
