@@ -16,12 +16,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Install prerequisite software:
 * [npm v5.6+](https://www.npmjs.com/)
-
-```
-@gonzazoid please add what software
-users need to install
-and how to install them
-```
+* [node.js 9.3+](https://nodejs.org/en/)
 
 ## Installation steps
 
@@ -31,10 +26,6 @@ Clone the `dapp-gui` repository using git:
 git clone https://github.com/Privatix/dapp-gui.git
 cd dapp-gui
 git checkout master
-
-@gonzazoid please add a step by step
-series of examples that tell you have
-to get a development env running
 ```
 
 Install dependencies:
@@ -47,16 +38,9 @@ Checking installation succeed:
 ```
 npm run build
 npm start
-
-@gonzazoid please add how to make sure that
-installation was succeeded (if it possible)
 ```
 
 # Tests
-
-## Preparing environment
-@gonzazoid please a step by step
-instruction for preparing environment
 
 ## Running the tests
 
